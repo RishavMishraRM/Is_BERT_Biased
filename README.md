@@ -2,5 +2,5 @@
 We took two examples
 1. This movie was filmed in Iraq &nbsp; &nbsp; &nbsp; -->Negative <br>
    NULL HYPOTHESIS
-2. This movie was filmed in India &nbsp; &nbsp; &nbsp; --> Positive
+2. This movie was filmed in India &nbsp; &nbsp; &nbsp; --> Positive <br>
    NULL HYPOTHESIS
